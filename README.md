@@ -1,4 +1,5 @@
-![banner](https://your-image-link)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Harsh%20Sharma&fontSize=35&fontColor=ffffff)
+
 ## Hi 👋 I'm Harsh Sharma
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
