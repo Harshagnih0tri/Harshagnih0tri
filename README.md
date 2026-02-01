@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
 💻 Python | Machine Learning | Django | React  
-🚀 I enjoy building practical projects and improving my problem-solving skills.
+🚀 Interested in building real-world applications using ML and web technologies.
 
 ### 🛠 Tech Stack
 - Python, C++
