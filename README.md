@@ -1,3 +1,4 @@
+![banner](https://your-image-link)
 ## Hi 👋 I'm Harsh Sharma
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
