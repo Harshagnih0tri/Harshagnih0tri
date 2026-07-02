@@ -55,17 +55,6 @@ I'm a B.Tech (AI & ML) undergraduate with hands-on experience building and deplo
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshagnih0tri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshagnih0tri&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
-</div>
-
----
-
 <div align="center">
 
 ⭐️ From [Harshagnih0tri](https://github.com/Harshagnih0tri) — thanks for stopping by!
