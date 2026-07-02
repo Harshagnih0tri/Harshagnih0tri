@@ -51,8 +51,6 @@ I'm a B.Tech (AI & ML) undergraduate with hands-on experience building and deplo
 | **ML Model Deployment Platform** | RESTful APIs serving ML model predictions through a Django backend, with structured SQL storage for queries and outputs. | `Django` `REST APIs` `SQL` |
 | **[E-Commerce Website](https://github.com/Harshagnih0tri/project-django-website)** | Full-stack Django e-commerce platform — auth, product listings, cart, and admin management. | `Django` `HTML` `CSS` `JavaScript` |
 
-> The two projects without links above aren't on your public GitHub yet — push them up and I'll wire in the links.
-
 ---
 
 <div align="center">
