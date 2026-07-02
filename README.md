@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="WhatsApp Image 2026-07-02 at 11.43.08 AM.jpeg" alt="Harsh Sharma banner" width="100%" />
+<img src="git_banner.jpeg" alt="Harsh Sharma banner" width="100%" />
 
 ### AI/ML Developer building practical, real-world software
 
