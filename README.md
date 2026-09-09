@@ -13,12 +13,11 @@
 
 ### 👋 About Me
 
-I'm a B.Tech (AI & ML) undergraduate with hands-on experience building and deploying full-stack, database-integrated software using Python and Django. Skilled in REST API development, ML model integration, and backend architecture — I take projects from design through deployment, not just notebooks.
+I'm a B.Tech (AI & ML) graduate with hands-on experience building and deploying full-stack, database-integrated software using Python and Django. Skilled in REST API development, ML model integration, and backend architecture — I take projects from design through deployment, not just notebooks.
 
-- 🤖 Currently interning as an **AI/ML Intern at Solitaire Infosys** — computer vision, model training & deployment pipelines
-- 💼 Previously: Django Developer Intern at Solutions Tree · Front-End Intern at Edunet Foundation (AICTE)
-- 🔭 Focused on shipping **ML models behind production-style Django/REST backends**
-- 🌱 Also exploring: AWS (EC2, S3), Docker, CI/CD, and LLM integration (Claude, OpenAI API)
+- 💼 Previously: AI/ML Intern at Solitaire Infosys (computer vision, model training & deployment) · Django Developer Intern at Solutions Tree · Front-End Intern at Edunet Foundation (AICTE)
+- 🔭 Currently building and shipping **ML/AI features behind production-style backends** — FastAPI, Django, REST APIs
+- 🌱 Also exploring: AWS (EC2, S3), Docker, CI/CD, and agentic AI (LangChain, LangGraph, RAG, MCP)
 - 📍 Chandigarh, India
 
 ---
@@ -29,13 +28,15 @@ I'm a B.Tech (AI & ML) undergraduate with hands-on experience building and deplo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -46,10 +47,10 @@ I'm a B.Tech (AI & ML) undergraduate with hands-on experience building and deplo
 
 | Project | Description | Stack |
 |---|---|---|
-| **[AI Resume Analyzer](https://github.com/Harshagnih0tri/AI-BASED-RESUME-SCREENING-AND-CANDIDATE-CLASSIFICATION)** | NLP-based resume screening system — parsing, keyword extraction, and job-role matching via an interactive web interface. | `Python` `NLP` `Scikit-learn` `Flask/Django` `Pandas` |
-| **Plant Disease Detection System** | CNN model classifying plant leaf diseases from image data, with OpenCV preprocessing/augmentation and real-time predictions served via Django. | `TensorFlow` `CNN` `OpenCV` `Django` |
-| **ML Model Deployment Platform** | RESTful APIs serving ML model predictions through a Django backend, with structured SQL storage for queries and outputs. | `Django` `REST APIs` `SQL` |
-| **[E-Commerce Website](https://github.com/Harshagnih0tri/project-django-website)** | Full-stack Django e-commerce platform — auth, product listings, cart, and admin management. | `Django` `HTML` `CSS` `JavaScript` |
+| **[GrowthX](https://github.com/Harshagnih0tri/growthx-backend)** — [live app](https://spiffy-semifreddo-62fb07.netlify.app/) · [live API](https://growthx-backend-2ihu.onrender.com) | Full-stack habit/productivity app: FastAPI backend with JWT auth, a RAG pipeline (Gemini embeddings, cosine-similarity retrieval) grounding a Groq-powered AI assistant in the user's own goals/habits/progress, and a Flutter frontend — deployed live end to end. | `FastAPI` `PostgreSQL` `Flutter` `RAG` `Groq` `Gemini API` |
+| **[AI Resume Analyzer](https://github.com/Harshagnih0tri/AI-BASED-RESUME-SCREENING-AND-CANDIDATE-CLASSIFICATION)** | NLP-based resume screening system — parsing, keyword extraction, and job-role matching via an interactive web interface. | `Python` `NLP` `Scikit-learn` `Flask` `Pandas` |
+| **Plant Disease Detection System** *(team project)* | CNN model classifying plant leaf diseases from image data, with OpenCV preprocessing/augmentation and real-time predictions served via Django. | `TensorFlow` `CNN` `OpenCV` `Django` |
+| **[E-Commerce Website](https://github.com/Harshagnih0tri/project-django-website)** | Full-stack Django e-commerce platform — auth, product catalog, cart, checkout, and admin management. | `Django` `HTML` `CSS` `JavaScript` |
 
 ---
 
